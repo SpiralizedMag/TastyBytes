@@ -6,11 +6,11 @@
 	<array>
 		<dict>
 			<key>ipad_image_portrait</key>
-			<string>https://github.com/joshuacleetus/Spiralized/blob/master/images/SpiralizedBanneriPadPortrait%402x.jpg?raw=true</string>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/TastyBytesBanneriPadPortrait%402x.jpg?raw=true</string>
 			<key>ipad_image_landscape</key>
 			<string></string>
 			<key>iphone_image</key>
-			<string>https://github.com/joshuacleetus/Spiralized/blob/master/images/SpiralizedBanneriPhone%402x.jpg?raw=true</string>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/TastyBytesiPhone%402x.jpg?raw=true</string>
 			<key>action</key>
 			<dict>
 				<key>actionIdentifier</key>
@@ -36,7 +36,7 @@
 		</dict>
 	</array>
 	<key>App_Title</key>
-	<string>Tasty Bytes Magazine</string>
+	<string>Tasty Bytes</string>
 	<key>publications</key>
 	<array>
 		<dict>
@@ -45,13 +45,13 @@
 			<key>date</key>
 			<date>2017-05-15T12:34:39Z</date>
 			<key>title</key>
-			<string>Spiralized Magazine</string>
+			<string>Tasty Bytes</string>
 			<key>description</key>
-			<string>Open-minded and deliciously entertaining.</string>
+			<string>For nerds that nibble.</string>
 			<key>coverURL</key>
-			<string>https://github.com/joshuacleetus/Spiralized/blob/master/images/SpiralizedCover.jpg?raw=true</string>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/TastyBytesCover.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/joshuacleetus/Spiralized/blob/master/PDF/SpiralizedMag.pdf?raw=true</string>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/PDF/TastyBytesMag.pdf?raw=true</string>
 		</dict>
 	</array>
 </dict>
