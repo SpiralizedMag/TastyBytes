@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>slides</key>
+	<array>
+		<dict>
+			<key>ipad_image_portrait</key>
+			<string>https://github.com/joshuacleetus/Spiralized/blob/master/images/SpiralizedBanneriPadPortrait%402x.jpg?raw=true</string>
+			<key>ipad_image_landscape</key>
+			<string></string>
+			<key>iphone_image</key>
+			<string>https://github.com/joshuacleetus/Spiralized/blob/master/images/SpiralizedBanneriPhone%402x.jpg?raw=true</string>
+			<key>action</key>
+			<dict>
+				<key>actionIdentifier</key>
+				<string>toWebBrowser</string>
+				<key>actionParameter</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ipad_image_portrait</key>
+			<string></string>
+			<key>ipad_image_landscape</key>
+			<string></string>
+			<key>iphone_image</key>
+			<string></string>
+			<key>action</key>
+			<dict>
+				<key>actionIdentifier</key>
+				<string>toWebBrowser</string>
+				<key>actionParameter</key>
+				<string>http://codecanyon.net/item/newsstandtemplate-v20-with-inapp-purchases/8046271?WT.ac=portfolio&amp;WT.z_author=t0rn</string>
+			</dict>
+		</dict>
+	</array>
+	<key>App_Title</key>
+	<string>Tasty Bytes Magazine</string>
+	<key>publications</key>
+	<array>
+		<dict>
+			<key>productId</key>
+			<string></string>
+			<key>date</key>
+			<date>2017-05-15T12:34:39Z</date>
+			<key>title</key>
+			<string>Spiralized Magazine</string>
+			<key>description</key>
+			<string>Open-minded and deliciously entertaining.</string>
+			<key>coverURL</key>
+			<string>https://github.com/joshuacleetus/Spiralized/blob/master/images/SpiralizedCover.jpg?raw=true</string>
+			<key>fileURL</key>
+			<string>https://github.com/joshuacleetus/Spiralized/blob/master/PDF/SpiralizedMag.pdf?raw=true</string>
+		</dict>
+	</array>
+</dict>
+</plist>
