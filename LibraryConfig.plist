@@ -10,7 +10,7 @@
 			<key>ipad_image_landscape</key>
 			<string></string>
 			<key>iphone_image</key>
-			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/TastyBytesiPhone%402x.jpg?raw=true</string>
+			<string>https://raw.githubusercontent.com/SpiralizedMag/TastyBytes/master/images/TastyBytesBanneriPhone%402x.jpg</string>
 			<key>action</key>
 			<dict>
 				<key>actionIdentifier</key>
