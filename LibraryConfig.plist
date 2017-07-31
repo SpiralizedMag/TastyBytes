@@ -36,7 +36,7 @@
 		</dict>
 	</array>
 	<key>App_Title</key>
-	<string>Tasty Bytes</string>
+	<string>Tasty Bytes Magazine</string>
 	<key>publications</key>
 	<array>
 		<dict>
@@ -45,7 +45,7 @@
 			<key>date</key>
 			<date>2017-05-15T12:34:39Z</date>
 			<key>title</key>
-			<string>Tasty Bytes</string>
+			<string>Fall 2017</string>
 			<key>description</key>
 			<string>For nerds that nibble.</string>
 			<key>coverURL</key>
