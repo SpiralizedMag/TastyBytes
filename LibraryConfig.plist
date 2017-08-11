@@ -52,20 +52,33 @@
 			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/TastyBytesCover.jpg?raw=true</string>
 			<key>fileURL</key>
 			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/PDF/TastyBytesMag.pdf?raw=true</string>
-		</dict>
 		<dict>
 			<key>productId</key>
-			<string>KickinInTastyBytes</string>
+			<string>KickinInSub</string>
 			<key>date</key>
 			<date>2017-05-15T12:34:39Z</date>
 			<key>title</key>
 			<string>Kickin' In</string>
 			<key>description</key>
-			<string>Cha-Ching</string>
+			<string>1-year subscription available, automatically renewed until cancelled after 1-year trial.</string>
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/BuySpiralized.jpg?raw=true</string>
 			<key>fileURL</key>
 			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/PDF/ThankYou.pdf?raw=true</string>
+		</dict>
+		<dict>
+			<key>productId</key>
+			<string></string>
+			<key>date</key>
+			<date>2017-05-15T12:34:39Z</date>
+			<key>title</key>
+			<string>Terms</string>
+			<key>description</key>
+			<string>Privacy Policy and Terms of Use</string>
+			<key>coverURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/Privacy.jpg?raw=true</string>
+			<key>fileURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/PDF/Privacy_Terms%20of%20Use.pdf?raw=true</string>
 		</dict>
 	</array>
 </dict>
