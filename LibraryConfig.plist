@@ -41,7 +41,7 @@
 	<array>
 		<dict>
 			<key>productId</key>
-			<string></string>
+			<string>Winter2017</string>
 			<key>date</key>
 			<date>2017-11-15T12:34:39Z</date>
 			<key>title</key>
@@ -55,7 +55,7 @@
 		</dict>
 		<dict>
 			<key>productId</key>
-			<string></string>
+			<string>Fall2017</string>
 			<key>date</key>
 			<date>2017-05-15T12:34:39Z</date>
 			<key>title</key>
@@ -83,7 +83,7 @@
 		</dict>
 		<dict>
 			<key>productId</key>
-			<string></string>
+			<string>Privacy</string>
 			<key>date</key>
 			<date>2017-05-15T12:34:39Z</date>
 			<key>title</key>
