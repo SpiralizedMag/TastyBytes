@@ -103,7 +103,7 @@
 			<key>title</key>
 			<string></string>
 			<key>description</key>
-			<string>Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited upon purchase.</string>
+			<string>Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account</string>
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/BuySpiralized.jpg?raw=true</string>
 			<key>fileURL</key>
@@ -117,7 +117,7 @@
 			<key>title</key>
 			<string></string>
 			<key>description</key>
-			<string>Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited upon purchase.</string>
+			<string> Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited upon purchase.</string>
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/BuySpiralized.jpg?raw=true</string>
 			<key>fileURL</key>
