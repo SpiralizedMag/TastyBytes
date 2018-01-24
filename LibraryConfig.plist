@@ -89,8 +89,35 @@
 			<key>title</key>
 			<string>Tasty Bytes Subscription</string>
 			<key>description</key>
-			<string>renewed within 24-hours prior to the end of the current period, until cancelled. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
-• Any unused portion of a free trial period, if offered, will be forfeited upon purchase.</string>
+			<string>renewed within 24-hours prior to the end of the current period, until cancelled.</string>
+			<key>coverURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/BuySpiralized.jpg?raw=true</string>
+			<key>fileURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/PDF/ThankYou.pdf?raw=true</string>
+		</dict>
+		<dict>
+			<key>productId</key>
+			<string>KickinInTastyBytes3</string>
+			<key>date</key>
+			<date>2017-05-15T12:34:39Z</date>
+			<key>title</key>
+			<string>Tasty Bytes Subscription</string>
+			<key>description</key>
+			<string>Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited upon purchase.</string>
+			<key>coverURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/BuySpiralized.jpg?raw=true</string>
+			<key>fileURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/PDF/ThankYou.pdf?raw=true</string>
+		</dict>
+		<dict>
+			<key>productId</key>
+			<string>KickinInTastyBytes4</string>
+			<key>date</key>
+			<date>2017-05-15T12:34:39Z</date>
+			<key>title</key>
+			<string>Tasty Bytes Subscription</string>
+			<key>description</key>
+			<string>Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited upon purchase.</string>
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/BuySpiralized.jpg?raw=true</string>
 			<key>fileURL</key>
