@@ -73,9 +73,10 @@
 			<key>date</key>
 			<date>2017-05-15T12:34:39Z</date>
 			<key>title</key>
-			<string>Kickin' In</string>
+			<string>Tasty Bytes Subscription</string>
 			<key>description</key>
-			<string>1-year subscription available, automatically renewed until cancelled after 1-year trial.</string>
+			<string>1-year sub, $2.99 scription available, charged to iTunes account after 1 year trial automatically renewed within 24-hours prior to the end of the current period, until cancelled. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+• Any unused portion of a free trial period, if offered, will be forfeited when the</string>
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/BuySpiralized.jpg?raw=true</string>
 			<key>fileURL</key>
