@@ -49,6 +49,21 @@
 			<key>description</key>
 			<string>Winter Bytes.</string>
 			<key>coverURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/Cover_Spring_18.jpg?raw=true</string>
+			<key>fileURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/PDF/TastyBytes_Spring_2018_opt.pdf?raw=true</string>
+		</dict>
+	<array>
+		<dict>
+			<key>productId</key>
+			<string></string>
+			<key>date</key>
+			<date>2017-11-15T12:34:39Z</date>
+			<key>title</key>
+			<string>Winter 2017</string>
+			<key>description</key>
+			<string>Winter Bytes.</string>
+			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/Cover_Winter_17.jpg?raw=true</string>
 			<key>fileURL</key>
 			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/PDF/TastyBytes_Winter_2017_opt.pdf?raw=true</string>
