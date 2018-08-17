@@ -109,6 +109,20 @@
 			<key>fileURL</key>
 			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/PDF/Privacy_Terms%20of%20Use.pdf?raw=true</string>
 		</dict>
+	<dict>
+			<key>productId</key>
+			<string></string>
+			<key>date</key>
+			<date>2017-05-15T12:34:39Z</date>
+			<key>title</key>
+			<string>Test</string>
+			<key>description</key>
+			<string>Test</string>
+			<key>coverURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/Privacy.jpg?raw=true</string>
+			<key>fileURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/PDF/001.pdf?raw=true</string>
+		</dict>
 	</array>
 </dict>
 </plist>
