@@ -43,6 +43,20 @@
 			<key>productId</key>
 			<string></string>
 			<key>date</key>
+			<date>2020-02-15T00:01:00Z</date>
+			<key>title</key>
+			<string>Spring 2020</string>
+			<key>description</key>
+			<string>Spring Bytes.</string>
+			<key>coverURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/images/Cover_Spring_20.jpg?raw=true</string>
+			<key>fileURL</key>
+			<string>https://github.com/SpiralizedMag/TastyBytes/blob/master/PDF/TastyBytes_Spring_2020_opt.pdf?raw=true</string>
+		</dict>
+		<dict>
+			<key>productId</key>
+			<string></string>
+			<key>date</key>
 			<date>2019-11-13T12:34:39Z</date>
 			<key>title</key>
 			<string>Winter 2019</string>
